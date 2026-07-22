@@ -1,0 +1,7 @@
+.trash/*
+
+**/node_modules/
+
+**/public/
+
+source/quartz/.quartz-cache/
